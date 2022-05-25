@@ -1,0 +1,10 @@
+flask
+bs4
+amino.fix==2.2.7
+pyfiglet
+colorama
+requests
+secmail
+progress
+pyshorteners
+json_minify
